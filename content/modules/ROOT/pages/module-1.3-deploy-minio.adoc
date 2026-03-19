@@ -205,7 +205,7 @@ Name:: My Data Connection
 Access Key:: minio
 Secret Key:: minio123
 Endpoint:: the API route in OpenShift (NOT the UI route)
-Region:: us-east-1
+Region:: us-east-1 (Verify with your instructor that this Region is correct)
 Bucket:: guidellm-benchmark
 
 
