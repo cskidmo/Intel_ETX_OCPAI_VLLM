@@ -123,7 +123,7 @@ oc get pods -n llm-hosting -w
 
 It will take about 10 minutes for the model deployment to be ready.
 
-* Login to OpenShift AI and go to the **LLM HOST** Data Science Project. Wait until the model fully deploys (green check) before continuing. 
+* Login to OpenShift AI and go to the **llm-hosting** Data Science Project. Wait until the model fully deploys (green check) before continuing. 
 
 image::granite-deployed-rhoai.png[Granite deployed on RHOAI]
 
